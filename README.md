@@ -23,7 +23,7 @@ python quick_sort.py
 ```
 ## 📊 Example of Output Table
 
-![Alt text](results.txt)
+![Alt text](screenshots/results.png)
 
 ## 📈 What the Results Show
 
